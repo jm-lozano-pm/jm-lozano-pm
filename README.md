@@ -17,7 +17,7 @@ Before product, I spent nine seasons refereeing basketball with the Valencian fe
 
 ---
 
-### 🧩 Featured products
+### 🧩 Featured work
 
 <table>
   <tr>
