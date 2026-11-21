@@ -75,6 +75,7 @@ Before product, I spent nine seasons refereeing basketball with the Valencian fe
 
 - [Professional Scrum Product Owner I (PSPO I)](https://www.credly.com/badges/3cde2291-1c44-421c-8bc3-0479c7c46fd5) · Scrum.org · 79/80
 - [Claude 101](https://academy.claude.com/verify/1dab25c1fa6450e21559140f012a1423) · Anthropic Claude Academy
+- [Claude Code 101](https://academy.claude.com/verify/5a31e072e925ebccc78814ed1cba61f3) · Anthropic Claude Academy
 - [Google Project Management Certificate](https://www.credly.com/badges/f66c3f07-0b18-49b5-92ff-efdb6a3fc620/public_url) · Google · Coursera
 
 ---
